@@ -39,7 +39,7 @@
 [<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 7px;" />](https://github.com/xeyossr)
 [<img src="https://img.shields.io/badge/AniList-blue?style=for-the-badge&logo=anilist&logoColor=white" alt=anilist style="margin-bottom: 7px;" />](https://anilist.co/user/yeaweeb/)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 7px;" />](https://instagram.com/xeyossr)
-<img src="https://img.shields.io/badge/Discord-wrathioo-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord" style="margin-bottom: 7px;" />
+<img src="https://img.shields.io/badge/Discord-axrona-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord" style="margin-bottom: 7px;" />
 [<img src="https://img.shields.io/badge/E--Mail-gray.svg?&style=for-the-badge&logo=maildotru&logoColor=white" alt="email" style="margin-bottom: 7px;" />](mailto:yeaweeb@duck.com)
 
 [<img src="https://dsc-readme.tsuni.dev/api/user/1379125777710190637" alt="Discord Status" />](https://discord.com/users/1379125777710190637)
