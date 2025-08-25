@@ -5,7 +5,7 @@
   🐧 <b>Artix Linux</b> + <b>Hyprland</b> user with a preference for minimal, clean setups.
 </p>
 
-<img src="./assets/fyodor-dostoevsky-bsd.gif" width="165" align="right">
+<img src="./assets/fyodor-dostoevsky-bsd.gif" width="175" align="right">
 
 ### 🦊 About Me
 
@@ -42,6 +42,6 @@
 
 ---
 
-<img width="200px" src=".github/waguri.png" align="right"/>
+<img width="200px" src="./assets/waguri.png" align="right"/>
 <img alt="axrona's Github Stats" src="https://github-readme-stats.vercel.app/api?username=axrona&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&v=1" />
 <img alt="axrona's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axrona&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&v=1" />
