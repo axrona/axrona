@@ -5,6 +5,7 @@
   🐧 <b>Artix Linux</b> + <b>Hyprland</b> user with a preference for minimal, clean setups.
 </p>
 
+<div>
 <img src="./assets/fyodor-dostoevsky-bsd.gif" width="155" align="right">
 
 ### 🦊 About Me
@@ -13,6 +14,8 @@
 - 🧠 Curious about philosophy, religion, and the wider world of programming  
 - 🐧 Artix Linux + Hyprland user, enjoying minimalistic setups  
 - 🎮 Mostly code in Go — exploring projects for fun  
+
+</div>
 
 ---
 
