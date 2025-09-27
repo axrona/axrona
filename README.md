@@ -33,4 +33,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 6 of [SAKAMOTO DAYS](https://anilist.co/anime/177709) (09:42 27 September 2025)
+-   📺 Watched episode 1 - 12 of [Secrets of the Silent Witch](https://anilist.co/anime/179966) (06:36 27 September 2025)
+-   📺 Watched episode 1 - 12 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/anime/181444) (06:04 27 September 2025)
+-   📺 Completed [A Couple of Cuckoos Season 2](https://anilist.co/anime/179828) (05:46 27 September 2025)
+-   📺 Watched episode 1 - 12 of [A Couple of Cuckoos Season 2](https://anilist.co/anime/179828) (05:46 27 September 2025)
+
 <!-- ANILIST_ACTIVITY:end -->
