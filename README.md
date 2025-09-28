@@ -33,10 +33,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Rascal Does Not Dream of Santa Claus](https://anilist.co/anime/171046) (04:46 28 September 2025)
+-   📺 Watched episode 1 - 13 of [Rascal Does Not Dream of Santa Claus](https://anilist.co/anime/171046) (04:45 28 September 2025)
 -   📺 Completed [The Fragrant Flower Blooms With Dignity](https://anilist.co/anime/181444) (04:25 28 September 2025)
 -   📺 Watched episode 1 - 13 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/anime/181444) (04:25 28 September 2025)
 -   📺 Plans to watch [Seishun Buta Yarou wa Dear Friend no Yume wo Minai](https://anilist.co/anime/199340) (17:11 27 September 2025)
--   📺 Watched episode 1 - 6 of [SAKAMOTO DAYS](https://anilist.co/anime/177709) (09:42 27 September 2025)
--   📺 Watched episode 1 - 12 of [Secrets of the Silent Witch](https://anilist.co/anime/179966) (06:36 27 September 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
