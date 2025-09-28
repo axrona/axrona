@@ -15,5 +15,5 @@ jobs:
         with:
           user_id: 7058554 # or
           user_name: axrona
-          timezone: Europe/Istanbul
+          timezone: UTC+3
           preferred_language: english
