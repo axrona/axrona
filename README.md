@@ -33,7 +33,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 3 of [JoJo's Bizarre Adventure (TV)](https://anilist.co/anime/14719) (14:18 29 September 2025)
+-   📺 Watched episode 1 - 4 of [JoJo's Bizarre Adventure (TV)](https://anilist.co/anime/14719) (14:25 29 September 2025)
 -   📺 Completed [SAKAMOTO DAYS Part 2](https://anilist.co/anime/184237) (11:40 29 September 2025)
 -   📺 Watched episode 1 - 11 of [SAKAMOTO DAYS Part 2](https://anilist.co/anime/184237) (11:40 29 September 2025)
 -   📺 Completed [SAKAMOTO DAYS](https://anilist.co/anime/177709) (06:50 28 September 2025)
