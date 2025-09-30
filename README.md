@@ -33,6 +33,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Okiraku Ryoushu no Tanoshii Ryouchi Bouei](https://anilist.co/anime/191205) (09:24 30 September 2025)
 -   📺 Rewatched [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (06:07 30 September 2025)
 -   📺 Rewatched episode 1 - 13 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (06:07 30 September 2025)
 -   📺 Watched episode 1 - 4 of [JoJo's Bizarre Adventure (TV)](https://anilist.co/anime/14719) (14:25 29 September 2025)
@@ -42,6 +43,5 @@
 -   📺 Watched episode 1 - 11 of [SAKAMOTO DAYS](https://anilist.co/anime/177709) (06:50 28 September 2025)
 -   📺 Completed [Rascal Does Not Dream of Santa Claus](https://anilist.co/anime/171046) (04:46 28 September 2025)
 -   📺 Watched episode 1 - 13 of [Rascal Does Not Dream of Santa Claus](https://anilist.co/anime/171046) (04:45 28 September 2025)
--   📺 Completed [The Fragrant Flower Blooms With Dignity](https://anilist.co/anime/181444) (04:25 28 September 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
