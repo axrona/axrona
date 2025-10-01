@@ -33,7 +33,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 74 of [Sakamoto Days](https://anilist.co/manga/125828) (20:37 01 October 2025)
+-   📖 Read chapter 1 - 80 of [Sakamoto Days](https://anilist.co/manga/125828) (20:55 01 October 2025)
 -   📺 Watched episode 1 - 7 of [JoJo's Bizarre Adventure (TV)](https://anilist.co/anime/14719) (01:29 01 October 2025)
 -   📖 Plans to read [SPY x FAMILY](https://anilist.co/manga/108556) (09:25 30 September 2025)
 -   📖 Plans to read [Sakamoto Days](https://anilist.co/manga/125828) (09:25 30 September 2025)
