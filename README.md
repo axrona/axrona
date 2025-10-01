@@ -33,12 +33,12 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 7 of [JoJo's Bizarre Adventure (TV)](https://anilist.co/anime/14719) (01:29 01 October 2025)
 -   📖 Plans to read [SPY x FAMILY](https://anilist.co/manga/108556) (09:25 30 September 2025)
 -   📖 Plans to read [Sakamoto Days](https://anilist.co/manga/125828) (09:25 30 September 2025)
 -   📺 Plans to watch [Okiraku Ryoushu no Tanoshii Ryouchi Bouei](https://anilist.co/anime/191205) (09:24 30 September 2025)
 -   📺 Rewatched [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (06:07 30 September 2025)
 -   📺 Rewatched episode 1 - 13 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (06:07 30 September 2025)
--   📺 Watched episode 1 - 4 of [JoJo's Bizarre Adventure (TV)](https://anilist.co/anime/14719) (14:25 29 September 2025)
 -   📺 Completed [SAKAMOTO DAYS Part 2](https://anilist.co/anime/184237) (11:40 29 September 2025)
 -   📺 Watched episode 1 - 11 of [SAKAMOTO DAYS Part 2](https://anilist.co/anime/184237) (11:40 29 September 2025)
 -   📺 Completed [SAKAMOTO DAYS](https://anilist.co/anime/177709) (06:50 28 September 2025)
