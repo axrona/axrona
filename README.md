@@ -33,8 +33,8 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 11 of [JoJo's Bizarre Adventure (TV)](https://anilist.co/anime/14719) (13:28 02 October 2025)
 -   📖 Read chapter 1 - 80 of [Sakamoto Days](https://anilist.co/manga/125828) (20:55 01 October 2025)
--   📺 Watched episode 1 - 7 of [JoJo's Bizarre Adventure (TV)](https://anilist.co/anime/14719) (01:29 01 October 2025)
 -   📖 Plans to read [SPY x FAMILY](https://anilist.co/manga/108556) (09:25 30 September 2025)
 -   📖 Plans to read [Sakamoto Days](https://anilist.co/manga/125828) (09:25 30 September 2025)
 -   📺 Plans to watch [Okiraku Ryoushu no Tanoshii Ryouchi Bouei](https://anilist.co/anime/191205) (09:24 30 September 2025)
