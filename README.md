@@ -33,6 +33,8 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Secrets of the Silent Witch](https://anilist.co/anime/179966) (08:29 05 October 2025)
+-   📺 Watched episode 1 - 13 of [Secrets of the Silent Witch](https://anilist.co/anime/179966) (08:29 05 October 2025)
 -   📺 Watched episode 1 - 2 of [May I Ask for One Final Thing?](https://anilist.co/anime/181447) (07:50 05 October 2025)
 -   📺 Watched episode 1 of [My Friend's Little Sister Has It In for Me!](https://anilist.co/anime/129195) (07:11 05 October 2025)
 -   📺 Watched episode 1 of [SPY x FAMILY Season 3](https://anilist.co/anime/177937) (06:49 05 October 2025)
@@ -41,7 +43,5 @@
 -   📺 Plans to watch [Great Pretender](https://anilist.co/anime/110349) (03:15 05 October 2025)
 -   📺 Watched episode 1 - 11 of [JoJo's Bizarre Adventure (TV)](https://anilist.co/anime/14719) (13:28 02 October 2025)
 -   📖 Read chapter 1 - 80 of [Sakamoto Days](https://anilist.co/manga/125828) (20:55 01 October 2025)
--   📖 Plans to read [SPY x FAMILY](https://anilist.co/manga/108556) (09:25 30 September 2025)
--   📖 Plans to read [Sakamoto Days](https://anilist.co/manga/125828) (09:25 30 September 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
