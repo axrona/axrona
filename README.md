@@ -33,6 +33,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 12 of [JoJo's Bizarre Adventure (TV)](https://anilist.co/anime/14719) (14:00 05 October 2025)
 -   📺 Completed [Secrets of the Silent Witch](https://anilist.co/anime/179966) (08:29 05 October 2025)
 -   📺 Watched episode 1 - 13 of [Secrets of the Silent Witch](https://anilist.co/anime/179966) (08:29 05 October 2025)
 -   📺 Watched episode 1 - 2 of [May I Ask for One Final Thing?](https://anilist.co/anime/181447) (07:50 05 October 2025)
@@ -41,7 +42,6 @@
 -   📺 Watched episode 1 of [To Your Eternity Season 3](https://anilist.co/anime/162669) (06:23 05 October 2025)
 -   📺 Plans to watch [My Status as an Assassin Obviously Exceeds the Hero’s](https://anilist.co/anime/186794) (04:51 05 October 2025)
 -   📺 Plans to watch [Great Pretender](https://anilist.co/anime/110349) (03:15 05 October 2025)
--   📺 Watched episode 1 - 11 of [JoJo's Bizarre Adventure (TV)](https://anilist.co/anime/14719) (13:28 02 October 2025)
 -   📖 Read chapter 1 - 80 of [Sakamoto Days](https://anilist.co/manga/125828) (20:55 01 October 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
