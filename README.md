@@ -33,6 +33,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [To Your Eternity Season 3](https://anilist.co/anime/162669) (06:23 05 October 2025)
 -   📺 Plans to watch [My Status as an Assassin Obviously Exceeds the Hero’s](https://anilist.co/anime/186794) (04:51 05 October 2025)
 -   📺 Plans to watch [Great Pretender](https://anilist.co/anime/110349) (03:15 05 October 2025)
 -   📺 Watched episode 1 - 11 of [JoJo's Bizarre Adventure (TV)](https://anilist.co/anime/14719) (13:28 02 October 2025)
@@ -42,6 +43,5 @@
 -   📺 Plans to watch [Okiraku Ryoushu no Tanoshii Ryouchi Bouei](https://anilist.co/anime/191205) (09:24 30 September 2025)
 -   📺 Rewatched [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (06:07 30 September 2025)
 -   📺 Rewatched episode 1 - 13 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (06:07 30 September 2025)
--   📺 Completed [SAKAMOTO DAYS Part 2](https://anilist.co/anime/184237) (11:40 29 September 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
