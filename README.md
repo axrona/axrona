@@ -33,6 +33,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 2 of [May I Ask for One Final Thing?](https://anilist.co/anime/181447) (07:50 05 October 2025)
 -   📺 Watched episode 1 of [My Friend's Little Sister Has It In for Me!](https://anilist.co/anime/129195) (07:11 05 October 2025)
 -   📺 Watched episode 1 of [SPY x FAMILY Season 3](https://anilist.co/anime/177937) (06:49 05 October 2025)
 -   📺 Watched episode 1 of [To Your Eternity Season 3](https://anilist.co/anime/162669) (06:23 05 October 2025)
@@ -42,6 +43,5 @@
 -   📖 Read chapter 1 - 80 of [Sakamoto Days](https://anilist.co/manga/125828) (20:55 01 October 2025)
 -   📖 Plans to read [SPY x FAMILY](https://anilist.co/manga/108556) (09:25 30 September 2025)
 -   📖 Plans to read [Sakamoto Days](https://anilist.co/manga/125828) (09:25 30 September 2025)
--   📺 Plans to watch [Okiraku Ryoushu no Tanoshii Ryouchi Bouei](https://anilist.co/anime/191205) (09:24 30 September 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
