@@ -33,7 +33,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 12 of [JoJo's Bizarre Adventure (TV)](https://anilist.co/anime/14719) (14:00 05 October 2025)
+-   📺 Watched episode 1 - 14 of [JoJo's Bizarre Adventure (TV)](https://anilist.co/anime/14719) (15:54 05 October 2025)
 -   📺 Completed [Secrets of the Silent Witch](https://anilist.co/anime/179966) (08:29 05 October 2025)
 -   📺 Watched episode 1 - 13 of [Secrets of the Silent Witch](https://anilist.co/anime/179966) (08:29 05 October 2025)
 -   📺 Watched episode 1 - 2 of [May I Ask for One Final Thing?](https://anilist.co/anime/181447) (07:50 05 October 2025)
