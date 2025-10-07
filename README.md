@@ -33,6 +33,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [My Status as an Assassin Obviously Exceeds the Hero’s](https://anilist.co/anime/186794) (23:40 06 October 2025)
 -   📺 Watched episode 1 of [Mechanical Marie](https://anilist.co/anime/179992) (23:24 06 October 2025)
 -   📺 Plans to watch [Paradise Kiss](https://anilist.co/anime/322) (18:44 05 October 2025)
 -   📺 Watched episode 1 - 14 of [JoJo's Bizarre Adventure (TV)](https://anilist.co/anime/14719) (15:54 05 October 2025)
@@ -42,6 +43,5 @@
 -   📺 Watched episode 1 of [My Friend's Little Sister Has It In for Me!](https://anilist.co/anime/129195) (07:11 05 October 2025)
 -   📺 Watched episode 1 of [SPY x FAMILY Season 3](https://anilist.co/anime/177937) (06:49 05 October 2025)
 -   📺 Watched episode 1 of [To Your Eternity Season 3](https://anilist.co/anime/162669) (06:23 05 October 2025)
--   📺 Plans to watch [My Status as an Assassin Obviously Exceeds the Hero’s](https://anilist.co/anime/186794) (04:51 05 October 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
