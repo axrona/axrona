@@ -33,10 +33,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 16 of [JoJo's Bizarre Adventure (TV)](https://anilist.co/anime/14719) (22:18 08 October 2025)
 -   📺 Watched episode 1 of [My Status as an Assassin Obviously Exceeds the Hero’s](https://anilist.co/anime/186794) (23:40 06 October 2025)
 -   📺 Watched episode 1 of [Mechanical Marie](https://anilist.co/anime/179992) (23:24 06 October 2025)
 -   📺 Plans to watch [Paradise Kiss](https://anilist.co/anime/322) (18:44 05 October 2025)
--   📺 Watched episode 1 - 14 of [JoJo's Bizarre Adventure (TV)](https://anilist.co/anime/14719) (15:54 05 October 2025)
 -   📺 Completed [Secrets of the Silent Witch](https://anilist.co/anime/179966) (08:29 05 October 2025)
 -   📺 Watched episode 1 - 13 of [Secrets of the Silent Witch](https://anilist.co/anime/179966) (08:29 05 October 2025)
 -   📺 Watched episode 1 - 2 of [May I Ask for One Final Thing?](https://anilist.co/anime/181447) (07:50 05 October 2025)
