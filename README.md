@@ -33,7 +33,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 16 of [JoJo's Bizarre Adventure (TV)](https://anilist.co/anime/14719) (22:18 08 October 2025)
+-   📺 Watched episode 1 - 18 of [JoJo's Bizarre Adventure (TV)](https://anilist.co/anime/14719) (08:56 11 October 2025)
 -   📺 Watched episode 1 of [My Status as an Assassin Obviously Exceeds the Hero’s](https://anilist.co/anime/186794) (23:40 06 October 2025)
 -   📺 Watched episode 1 of [Mechanical Marie](https://anilist.co/anime/179992) (23:24 06 October 2025)
 -   📺 Plans to watch [Paradise Kiss](https://anilist.co/anime/322) (18:44 05 October 2025)
