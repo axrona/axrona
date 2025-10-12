@@ -33,6 +33,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 13 of [Boy's Abyss](https://anilist.co/manga/116186) (17:51 12 October 2025)
 -   📺 Watched episode 1 - 2 of [My Little Monster](https://anilist.co/anime/14227) (16:41 12 October 2025)
 -   📺 Plans to watch [Maid-Sama!](https://anilist.co/anime/7054) (15:51 12 October 2025)
 -   📺 Watched episode 1 - 2 of [To Your Eternity Season 3](https://anilist.co/anime/162669) (07:41 12 October 2025)
@@ -42,6 +43,5 @@
 -   📺 Watched episode 1 - 18 of [JoJo's Bizarre Adventure (TV)](https://anilist.co/anime/14719) (08:56 11 October 2025)
 -   📺 Watched episode 1 of [My Status as an Assassin Obviously Exceeds the Hero’s](https://anilist.co/anime/186794) (23:40 06 October 2025)
 -   📺 Watched episode 1 of [Mechanical Marie](https://anilist.co/anime/179992) (23:24 06 October 2025)
--   📺 Plans to watch [Paradise Kiss](https://anilist.co/anime/322) (18:44 05 October 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
