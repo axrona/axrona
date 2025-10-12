@@ -33,6 +33,9 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Boy's Abyss](https://anilist.co/manga/116186) (05:08 12 October 2025)
+-   📖 Dropped [The Swordmaster's Son](https://anilist.co/manga/149332) (05:07 12 October 2025)
+-   📖 Read chapter 1 - 169 of [The Swordmaster's Son](https://anilist.co/manga/149332) (05:06 12 October 2025)
 -   📺 Watched episode 1 - 18 of [JoJo's Bizarre Adventure (TV)](https://anilist.co/anime/14719) (08:56 11 October 2025)
 -   📺 Watched episode 1 of [My Status as an Assassin Obviously Exceeds the Hero’s](https://anilist.co/anime/186794) (23:40 06 October 2025)
 -   📺 Watched episode 1 of [Mechanical Marie](https://anilist.co/anime/179992) (23:24 06 October 2025)
@@ -40,8 +43,5 @@
 -   📺 Completed [Secrets of the Silent Witch](https://anilist.co/anime/179966) (08:29 05 October 2025)
 -   📺 Watched episode 1 - 13 of [Secrets of the Silent Witch](https://anilist.co/anime/179966) (08:29 05 October 2025)
 -   📺 Watched episode 1 - 2 of [May I Ask for One Final Thing?](https://anilist.co/anime/181447) (07:50 05 October 2025)
--   📺 Watched episode 1 of [My Friend's Little Sister Has It In for Me!](https://anilist.co/anime/129195) (07:11 05 October 2025)
--   📺 Watched episode 1 of [SPY x FAMILY Season 3](https://anilist.co/anime/177937) (06:49 05 October 2025)
--   📺 Watched episode 1 of [To Your Eternity Season 3](https://anilist.co/anime/162669) (06:23 05 October 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
