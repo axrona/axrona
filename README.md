@@ -33,7 +33,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 13 of [Boy's Abyss](https://anilist.co/manga/116186) (17:51 12 October 2025)
+-   📖 Read chapter 1 - 40 of [Boy's Abyss](https://anilist.co/manga/116186) (18:45 12 October 2025)
 -   📺 Watched episode 1 - 2 of [My Little Monster](https://anilist.co/anime/14227) (16:41 12 October 2025)
 -   📺 Plans to watch [Maid-Sama!](https://anilist.co/anime/7054) (15:51 12 October 2025)
 -   📺 Watched episode 1 - 2 of [To Your Eternity Season 3](https://anilist.co/anime/162669) (07:41 12 October 2025)
