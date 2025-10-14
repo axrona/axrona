@@ -33,6 +33,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Kimi ga Shinu made Koi wo Shitai](https://anilist.co/anime/187260) (19:52 14 October 2025)
 -   📺 Completed [My Little Monster](https://anilist.co/anime/14227) (18:55 14 October 2025)
 -   📺 Watched episode 1 - 13 of [My Little Monster](https://anilist.co/anime/14227) (18:55 14 October 2025)
 -   📖 Read chapter 1 - 101 of [Boy's Abyss](https://anilist.co/manga/116186) (01:14 14 October 2025)
@@ -42,6 +43,5 @@
 -   📖 Dropped [The Swordmaster's Son](https://anilist.co/manga/149332) (05:07 12 October 2025)
 -   📖 Read chapter 1 - 169 of [The Swordmaster's Son](https://anilist.co/manga/149332) (05:06 12 October 2025)
 -   📺 Watched episode 1 - 18 of [JoJo's Bizarre Adventure (TV)](https://anilist.co/anime/14719) (08:56 11 October 2025)
--   📺 Watched episode 1 of [My Status as an Assassin Obviously Exceeds the Hero’s](https://anilist.co/anime/186794) (23:40 06 October 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
