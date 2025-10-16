@@ -33,6 +33,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 3 of [This Monster Wants to Eat Me](https://anilist.co/anime/183385) (21:57 16 October 2025)
 -   📺 Watched episode 1 - 2 of [My Friend's Little Sister Has It In for Me!](https://anilist.co/anime/129195) (21:09 16 October 2025)
 -   📺 Plans to watch [Gachiakuta](https://anilist.co/anime/178025) (12:15 15 October 2025)
 -   📺 Plans to watch [Kimi ga Shinu made Koi wo Shitai](https://anilist.co/anime/187260) (19:52 14 October 2025)
@@ -42,6 +43,5 @@
 -   📺 Plans to watch [Maid-Sama!](https://anilist.co/anime/7054) (15:51 12 October 2025)
 -   📺 Watched episode 1 - 2 of [To Your Eternity Season 3](https://anilist.co/anime/162669) (07:41 12 October 2025)
 -   📖 Plans to read [Boy's Abyss](https://anilist.co/manga/116186) (05:08 12 October 2025)
--   📖 Dropped [The Swordmaster's Son](https://anilist.co/manga/149332) (05:07 12 October 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
