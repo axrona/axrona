@@ -1,9 +1,4 @@
 <h1 align="center">🦊 Welcome</h1>
-<p align="center">
-  Welcome to <b>axrona</b>’s coding corner.<br><br>
-  🎮 Passionate about building small tools and exploring new ideas — primarily in <b>Go</b>.<br>
-  🐧 <b>Artix Linux</b> + <b>Hyprland</b> user.
-</p>
 
 <div>
 <img src="./assets/fyodor-dostoevsky-bsd.gif" width="155" align="right">
@@ -12,7 +7,7 @@
 
 - 💻 Spend most of my time coding and experimenting with terminal tools  
 - 🧠 Curious about philosophy, religion, and the wider world of programming  
-- 🐧 Artix Linux + Hyprland user, enjoying minimalistic setups  
+- 🐧 Artix Linux + Hyprland user
 - 🎮 Mostly code in Go — exploring projects for fun  
 
 </div>
