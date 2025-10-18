@@ -33,6 +33,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 3 of [SPY x FAMILY Season 3](https://anilist.co/anime/177937) (21:27 18 October 2025)
 -   📺 Plans to watch [The Fated Magical Princess: Who Made Me a Princess](https://anilist.co/anime/165530) (11:56 18 October 2025)
 -   📖 Read chapter 1 - 137 of [Boy's Abyss](https://anilist.co/manga/116186) (23:17 17 October 2025)
 -   📺 Watched episode 1 - 3 of [This Monster Wants to Eat Me](https://anilist.co/anime/183385) (21:57 16 October 2025)
@@ -42,6 +43,5 @@
 -   📺 Completed [My Little Monster](https://anilist.co/anime/14227) (18:55 14 October 2025)
 -   📺 Watched episode 1 - 13 of [My Little Monster](https://anilist.co/anime/14227) (18:55 14 October 2025)
 -   📺 Plans to watch [Maid-Sama!](https://anilist.co/anime/7054) (15:51 12 October 2025)
--   📺 Watched episode 1 - 2 of [To Your Eternity Season 3](https://anilist.co/anime/162669) (07:41 12 October 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
