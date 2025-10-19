@@ -28,15 +28,15 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Evangelion: 3.0+1.0 Thrice Upon a Time](https://anilist.co/anime/3786) (07:18 19 October 2025)
+-   📺 Plans to watch [Evangelion: 3.0 You Can (Not) Redo](https://anilist.co/anime/3785) (07:18 19 October 2025)
+-   📺 Plans to watch [Evangelion: 2.0 You Can (Not) Advance](https://anilist.co/anime/3784) (07:17 19 October 2025)
+-   📺 Plans to watch [Evangelion: 1.0 You Are (Not) Alone](https://anilist.co/anime/2759) (07:17 19 October 2025)
+-   📺 Plans to watch [Neon Genesis Evangelion: The End of Evangelion](https://anilist.co/anime/32) (07:17 19 October 2025)
+-   📺 Plans to watch [Neon Genesis Evangelion](https://anilist.co/anime/30) (07:17 19 October 2025)
 -   📺 Watched episode 1 - 2 of [My Awkward Senpai](https://anilist.co/anime/185575) (21:46 18 October 2025)
 -   📺 Watched episode 1 - 3 of [SPY x FAMILY Season 3](https://anilist.co/anime/177937) (21:27 18 October 2025)
 -   📺 Plans to watch [The Fated Magical Princess: Who Made Me a Princess](https://anilist.co/anime/165530) (11:56 18 October 2025)
 -   📖 Read chapter 1 - 137 of [Boy's Abyss](https://anilist.co/manga/116186) (23:17 17 October 2025)
--   📺 Watched episode 1 - 3 of [This Monster Wants to Eat Me](https://anilist.co/anime/183385) (21:57 16 October 2025)
--   📺 Watched episode 1 - 2 of [My Friend's Little Sister Has It In for Me!](https://anilist.co/anime/129195) (21:09 16 October 2025)
--   📺 Plans to watch [Gachiakuta](https://anilist.co/anime/178025) (12:15 15 October 2025)
--   📺 Plans to watch [Kimi ga Shinu made Koi wo Shitai](https://anilist.co/anime/187260) (19:52 14 October 2025)
--   📺 Completed [My Little Monster](https://anilist.co/anime/14227) (18:55 14 October 2025)
--   📺 Watched episode 1 - 13 of [My Little Monster](https://anilist.co/anime/14227) (18:55 14 October 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
