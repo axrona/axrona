@@ -28,6 +28,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [A Whisker Away](https://anilist.co/anime/114963) (20:56 21 October 2025)
 -   📺 Plans to watch [A Whisker Away](https://anilist.co/anime/114963) (21:22 19 October 2025)
 -   📺 Plans to watch [Evangelion: 3.0+1.0 Thrice Upon a Time](https://anilist.co/anime/3786) (07:18 19 October 2025)
 -   📺 Plans to watch [Evangelion: 3.0 You Can (Not) Redo](https://anilist.co/anime/3785) (07:18 19 October 2025)
@@ -37,6 +38,5 @@
 -   📺 Plans to watch [Neon Genesis Evangelion](https://anilist.co/anime/30) (07:17 19 October 2025)
 -   📺 Watched episode 1 - 2 of [My Awkward Senpai](https://anilist.co/anime/185575) (21:46 18 October 2025)
 -   📺 Watched episode 1 - 3 of [SPY x FAMILY Season 3](https://anilist.co/anime/177937) (21:27 18 October 2025)
--   📺 Plans to watch [The Fated Magical Princess: Who Made Me a Princess](https://anilist.co/anime/165530) (11:56 18 October 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
