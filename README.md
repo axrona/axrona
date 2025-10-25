@@ -28,6 +28,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 4 of [To Your Eternity Season 3](https://anilist.co/anime/162669) (18:21 25 October 2025)
 -   📺 Watched episode 1 - 3 of [My Friend's Little Sister Has It In for Me!](https://anilist.co/anime/129195) (14:43 24 October 2025)
 -   📺 Completed [A Whisker Away](https://anilist.co/anime/114963) (20:56 21 October 2025)
 -   📺 Plans to watch [A Whisker Away](https://anilist.co/anime/114963) (21:22 19 October 2025)
@@ -37,6 +38,5 @@
 -   📺 Plans to watch [Evangelion: 1.0 You Are (Not) Alone](https://anilist.co/anime/2759) (07:17 19 October 2025)
 -   📺 Plans to watch [Neon Genesis Evangelion: The End of Evangelion](https://anilist.co/anime/32) (07:17 19 October 2025)
 -   📺 Plans to watch [Neon Genesis Evangelion](https://anilist.co/anime/30) (07:17 19 October 2025)
--   📺 Watched episode 1 - 2 of [My Awkward Senpai](https://anilist.co/anime/185575) (21:46 18 October 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
