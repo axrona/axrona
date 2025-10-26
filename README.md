@@ -28,7 +28,8 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 153 of [Boy's Abyss](https://anilist.co/manga/116186) (16:58 26 October 2025)
+-   📖 Read chapter 1 - 185 of [Boy's Abyss](https://anilist.co/manga/116186) (17:38 26 October 2025)
+-   📖 Completed [Boy's Abyss](https://anilist.co/manga/116186) (17:37 26 October 2025)
 -   📺 Watched episode 1 - 4 of [To Your Eternity Season 3](https://anilist.co/anime/162669) (18:21 25 October 2025)
 -   📺 Watched episode 1 - 3 of [My Friend's Little Sister Has It In for Me!](https://anilist.co/anime/129195) (14:43 24 October 2025)
 -   📺 Completed [A Whisker Away](https://anilist.co/anime/114963) (20:56 21 October 2025)
@@ -37,6 +38,5 @@
 -   📺 Plans to watch [Evangelion: 3.0 You Can (Not) Redo](https://anilist.co/anime/3785) (07:18 19 October 2025)
 -   📺 Plans to watch [Evangelion: 2.0 You Can (Not) Advance](https://anilist.co/anime/3784) (07:17 19 October 2025)
 -   📺 Plans to watch [Evangelion: 1.0 You Are (Not) Alone](https://anilist.co/anime/2759) (07:17 19 October 2025)
--   📺 Plans to watch [Neon Genesis Evangelion: The End of Evangelion](https://anilist.co/anime/32) (07:17 19 October 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
