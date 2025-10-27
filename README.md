@@ -28,11 +28,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 4 of [My Friend's Little Sister Has It In for Me!](https://anilist.co/anime/129195) (11:29 27 October 2025)
 -   📺 Watched episode 1 - 4 of [My Awkward Senpai](https://anilist.co/anime/185575) (20:56 26 October 2025)
 -   📖 Read chapter 1 - 185 of [Boy's Abyss](https://anilist.co/manga/116186) (17:38 26 October 2025)
 -   📖 Completed [Boy's Abyss](https://anilist.co/manga/116186) (17:37 26 October 2025)
 -   📺 Watched episode 1 - 4 of [To Your Eternity Season 3](https://anilist.co/anime/162669) (18:21 25 October 2025)
--   📺 Watched episode 1 - 3 of [My Friend's Little Sister Has It In for Me!](https://anilist.co/anime/129195) (14:43 24 October 2025)
 -   📺 Completed [A Whisker Away](https://anilist.co/anime/114963) (20:56 21 October 2025)
 -   📺 Plans to watch [A Whisker Away](https://anilist.co/anime/114963) (21:22 19 October 2025)
 -   📺 Plans to watch [Evangelion: 3.0+1.0 Thrice Upon a Time](https://anilist.co/anime/3786) (07:18 19 October 2025)
