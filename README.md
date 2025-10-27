@@ -28,6 +28,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Fullmetal Alchemist: Brotherhood](https://anilist.co/anime/5114) (21:58 27 October 2025)
 -   📺 Watched episode 1 - 5 of [May I Ask for One Final Thing?](https://anilist.co/anime/181447) (13:10 27 October 2025)
 -   📺 Watched episode 1 - 3 of [My Status as an Assassin Obviously Exceeds the Hero’s](https://anilist.co/anime/186794) (12:25 27 October 2025)
 -   📺 Watched episode 1 - 4 of [My Friend's Little Sister Has It In for Me!](https://anilist.co/anime/129195) (11:29 27 October 2025)
@@ -37,6 +38,5 @@
 -   📺 Watched episode 1 - 4 of [To Your Eternity Season 3](https://anilist.co/anime/162669) (18:21 25 October 2025)
 -   📺 Completed [A Whisker Away](https://anilist.co/anime/114963) (20:56 21 October 2025)
 -   📺 Plans to watch [A Whisker Away](https://anilist.co/anime/114963) (21:22 19 October 2025)
--   📺 Plans to watch [Evangelion: 3.0+1.0 Thrice Upon a Time](https://anilist.co/anime/3786) (07:18 19 October 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
