@@ -28,7 +28,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 3 of [Blue Spring Ride](https://anilist.co/anime/20596) (02:54 30 October 2025)
+-   📺 Watched episode 1 - 6 of [Blue Spring Ride](https://anilist.co/anime/20596) (23:31 01 November 2025)
 -   📺 Watched episode 1 - 2 of [Mechanical Marie](https://anilist.co/anime/179992) (12:52 28 October 2025)
 -   📺 Watched episode 1 - 4 of [My Status as an Assassin Obviously Exceeds the Hero’s](https://anilist.co/anime/186794) (12:29 28 October 2025)
 -   📺 Watched episode 1 of [Fullmetal Alchemist: Brotherhood](https://anilist.co/anime/5114) (21:58 27 October 2025)
