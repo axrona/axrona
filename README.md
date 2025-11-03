@@ -28,6 +28,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 5 of [To Your Eternity Season 3](https://anilist.co/anime/162669) (19:26 03 November 2025)
 -   📺 Watched episode 1 - 5 of [My Status as an Assassin Obviously Exceeds the Hero’s](https://anilist.co/anime/186794) (18:47 03 November 2025)
 -   📺 Watched episode 1 - 5 of [My Friend's Little Sister Has It In for Me!](https://anilist.co/anime/129195) (12:03 03 November 2025)
 -   📺 Watched episode 1 - 5 of [My Awkward Senpai](https://anilist.co/anime/185575) (10:44 03 November 2025)
@@ -37,6 +38,5 @@
 -   📺 Watched episode 1 of [Fullmetal Alchemist: Brotherhood](https://anilist.co/anime/5114) (21:58 27 October 2025)
 -   📺 Watched episode 1 - 5 of [May I Ask for One Final Thing?](https://anilist.co/anime/181447) (13:10 27 October 2025)
 -   📖 Read chapter 1 - 185 of [Boy's Abyss](https://anilist.co/manga/116186) (17:38 26 October 2025)
--   📖 Completed [Boy's Abyss](https://anilist.co/manga/116186) (17:37 26 October 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
