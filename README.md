@@ -1,12 +1,12 @@
-<h1 align="center">🦊 Welcome</h1>
+<h1 align="center">🐬 Welcome</h1>
 
-### 🦊
+### 🐬 about me
 
-- 💻 Exploring programming and terminal tools  
-- 📚 Enjoy reading and philosophy 
-- 🐧 Linux enthusiast
+- 💻 exploring programming and terminal tools  
+- 📚 enjoy reading and philosophy  
+- 🐧 linux enthusiast
 
-### 🔗
+### 🔗 connect with me
 
 [![GitHub](https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/axrona)
 [![AniList](https://img.shields.io/badge/AniList-blue?style=for-the-badge&logo=anilist&logoColor=white)](https://anilist.co/user/axrona/)
@@ -16,4 +16,6 @@
 
 ---
 
-<img src="assets/ado-plush.png" />
+<div align="center">
+<img src="assets/ado-plush.png" width="200"/>
+</div>
