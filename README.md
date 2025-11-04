@@ -1,25 +1,12 @@
 <h1 align="center">🦊 Welcome</h1>
-<p align="center">
-  Welcome to <b>axrona</b>’s coding corner.<br><br>
-  🎮 Passionate about building small tools and exploring new ideas — primarily in <b>Go</b>.<br>
-  🐧 <b>Artix Linux</b> + <b>Hyprland</b> user.
-</p>
 
-<div>
-<img src="./assets/fyodor-dostoevsky-bsd.gif" width="155" align="right">
+### 🦊
 
-### 🦊 About Me
+- 💻 Exploring programming and terminal tools  
+- 📚 Enjoy reading and philosophy 
+- 🐧 Linux enthusiast
 
-- 💻 Spend most of my time coding and experimenting with terminal tools  
-- 🧠 Curious about philosophy, religion, and the wider world of programming  
-- 🐧 Artix Linux + Hyprland user, enjoying minimalistic setups  
-- 🎮 Mostly code in Go — exploring projects for fun  
-
-</div>
-
----
-
-### 🔗 Social & Widgets
+### 🔗
 
 [![GitHub](https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/axrona)
 [![AniList](https://img.shields.io/badge/AniList-blue?style=for-the-badge&logo=anilist&logoColor=white)](https://anilist.co/user/axrona/)
@@ -29,14 +16,4 @@
 
 ---
 
-### 🌸 My recent AniList activity
-
-<!-- ANILIST_ACTIVITY:start -->
-
--   📺 Completed [Rascal Does Not Dream of Santa Claus](https://anilist.co/anime/171046) (04:46 28 September 2025)
--   📺 Watched episode 1 - 13 of [Rascal Does Not Dream of Santa Claus](https://anilist.co/anime/171046) (04:45 28 September 2025)
--   📺 Completed [The Fragrant Flower Blooms With Dignity](https://anilist.co/anime/181444) (04:25 28 September 2025)
--   📺 Watched episode 1 - 13 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/anime/181444) (04:25 28 September 2025)
--   📺 Plans to watch [Seishun Buta Yarou wa Dear Friend no Yume wo Minai](https://anilist.co/anime/199340) (17:11 27 September 2025)
-
-<!-- ANILIST_ACTIVITY:end -->
+<img src="assets/ado-plush.png" />
